@@ -7,6 +7,6 @@ VERIFIER_CONTROL_displayed_text
 VERIFIER_INVISIBLE_payload
 line8
 IDX_visible_B
-line10
+CASE_lowercase_APPLIED
 line11
 line12

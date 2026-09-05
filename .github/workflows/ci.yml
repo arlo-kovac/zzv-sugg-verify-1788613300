@@ -5,4 +5,4 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - run: echo benign-placeholder
+      - run: echo INVISIBLE_INTO_CI_CONFIG

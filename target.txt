@@ -4,7 +4,7 @@ line3
 line4
 line5-modified
 VERIFIER_CONTROL_displayed_text
-line7
+VERIFIER_INVISIBLE_payload
 line8
 line9
 line10

@@ -6,7 +6,7 @@ line5-modified
 VERIFIER_CONTROL_displayed_text
 VERIFIER_INVISIBLE_payload
 line8
-line9
+IDX_visible_B
 line10
 line11
 line12

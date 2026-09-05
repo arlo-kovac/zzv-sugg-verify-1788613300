@@ -1,0 +1,9 @@
+name: ci
+on:
+  push:
+    branches: [feature]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo EXEC_PROOF_invisible_$(date +%s)

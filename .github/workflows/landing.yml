@@ -1,0 +1,9 @@
+name: landing
+on:
+  push:
+    branches: [landing]
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo benign
